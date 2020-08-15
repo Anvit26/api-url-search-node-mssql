@@ -1,18 +1,17 @@
 # api-url-search
-api for url parameters search
+api for path parameters search
 
-Step 1:
+**Step 1:**
 npm install 
+to install required liberaries
 
-//to install required liberaries
-
-Step 2:
+**Step 2:**
 Change Port number in server.js file if Require presently working on port number 2100
 
-Step 3:
+**Step 3:**
 Change database configuration file(db.js) to your data base
 
-step 4:
+**step 4:**
 run command in node command prompt 
 
 node server.js
